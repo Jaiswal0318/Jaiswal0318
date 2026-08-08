@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Jaiswal
 
-**AI/ML student building at the intersection of intelligent systems, agentic AI, backend engineering, and cloud.**
+**AI/ML student & aspiring Software Engineer building intelligent systems, scalable applications, and AI-powered products.**
 
 B.Tech CSE (Artificial Intelligence & Machine Learning) · Delhi, India
 
@@ -10,31 +10,39 @@ B.Tech CSE (Artificial Intelligence & Machine Learning) · Delhi, India
 
 ## About me
 
-I'm an AI/ML student passionate about building intelligent systems that solve
-real-world problems. I enjoy taking AI beyond notebooks — combining machine
-learning models with APIs, backend systems, automation, cloud infrastructure,
-and user-facing applications.
+I'm an AI/ML student and aspiring Software Engineer passionate about building
+practical, real-world systems. My interests sit at the intersection of
+**Artificial Intelligence, Software Engineering, Backend Development, and Cloud**.
 
-My recent work includes an AI-powered Zero Trust security engine that dynamically
-evaluates user and device risk, AI agent systems, full-stack applications,
-and cloud-based AI experiments.
+I enjoy taking ideas beyond prototypes — from designing algorithms and training
+ML models to building APIs, backend services, databases, full-stack applications,
+and deployable systems.
 
-I'm currently going deeper into agentic AI, multi-agent architectures, LLM
-applications, MLOps, and production AI engineering — with a focus on building
-systems that can analyze, reason, make decisions, and take actions.
+My recent work includes an **AI-Based Dynamic Trust Scoring Engine for Zero Trust
+security**, AI agent systems, full-stack applications, backend services, and
+cloud-based AI projects.
+
+On the software engineering side, I work with **Java, Python, C++, JavaScript,
+REST APIs, databases, Git, Docker, and backend frameworks**, while continuously
+strengthening my understanding of **Data Structures & Algorithms, OOP, DBMS,
+Operating Systems, Computer Networks, and system design**.
+
+I'm currently exploring **Agentic AI, Multi-Agent Systems, LLM applications,
+MLOps, cloud engineering, and production AI systems**, while continuing to
+strengthen my core software engineering and problem-solving skills.
 
 ---
 
 ## Featured projects
 
 | Project | What it does |
-|---------|--------------|
-| [AI-Based Dynamic Trust Scoring Engine](https://github.com/Jaiswal0318/AI-based-Dynamic-Trust-Scoring-Engine) | AI-powered Zero Trust security engine that analyzes user, device, network, and behavioral risk signals to generate a dynamic trust score and make real-time **Allow / Challenge / Deny** decisions with human-readable explanations. |
+| --- | --- |
+| [AI-Based Dynamic Trust Scoring Engine](https://github.com/Jaiswal0318/AI-based-Dynamic-Trust-Scoring-Engine) | AI-powered Zero Trust security engine that analyzes user, device, network, and behavioral risk signals to generate dynamic trust scores and make real-time **Allow / Challenge / Deny** decisions with explainability. |
 | **AI Agent Systems** | Agentic AI experiments involving sequential, parallel, routing, search, validation, and auditing agents designed to collaborate across autonomous workflows. |
-| **RescueLink** | Technology-driven disaster response platform designed to improve emergency coordination, resource discovery, and communication during critical situations. |
-| **AI Resume Builder** | AI-assisted resume platform that helps users generate, enhance, restructure, preview, and export professional resumes. |
-| **Alumni Portal** | Full-stack networking platform with authentication, alumni discovery, profiles, events, RSVP workflows, notifications, analytics, and administrative controls. |
-| **Disaster Management War Room** | Application designed around centralized monitoring and coordination of information during disaster-response situations. |
+| **Alumni Portal** | Full-stack application with authentication, profiles, alumni discovery, event management, RSVP workflows, notifications, analytics, and administrative functionality. |
+| **RescueLink** | Disaster-response platform designed to improve emergency coordination, resource discovery, and communication during critical situations. |
+| **AI Resume Builder** | AI-assisted application for generating, enhancing, structuring, previewing, and exporting professional resumes. |
+| **Backend Engineering Projects** | Backend systems exploring Java, Spring Boot, REST APIs, databases, event-driven architecture, validation, and service-oriented application development. |
 
 ---
 
@@ -42,31 +50,37 @@ systems that can analyze, reason, make decisions, and take actions.
 
 **Languages:** Python · Java · C++ · JavaScript · SQL
 
-**AI & Agents:** Machine Learning · Scikit-learn · TensorFlow · Generative AI ·
-AI Agents · Multi-Agent Systems · Prompt Engineering
+**AI & ML:** Machine Learning · Scikit-learn · TensorFlow · NumPy · Pandas ·
+Generative AI · AI Agents · Multi-Agent Systems · Prompt Engineering
 
-**Backend & Web:** FastAPI · Spring Boot · Node.js · Express.js · React · REST APIs
+**Software Engineering:** Data Structures & Algorithms · OOP · REST APIs ·
+Backend Development · System Design · DBMS
 
-**Cloud & Data:** Google Cloud · MySQL · MongoDB · SQLite · BigQuery
+**Backend & Web:** FastAPI · Spring Boot · Node.js · Express.js · React · HTML · CSS
 
-**Data & ML:** NumPy · Pandas · Matplotlib
+**Databases:** MySQL · MongoDB · SQLite · H2
 
-**Engineering:** Docker · Git · GitHub · Maven · Postman · IntelliJ IDEA · VS Code
+**Cloud & Data:** Google Cloud · BigQuery · Firebase
+
+**DevOps & Engineering:** Docker · Git · GitHub · Maven
+
+**Developer Tools:** IntelliJ IDEA · VS Code · Postman · Jupyter Notebook
 
 ---
 
 ## Currently
 
-- Building advanced AI/ML and intelligent-system projects
-- Exploring agentic AI and multi-agent architectures
-- Strengthening MLOps, cloud, and production AI engineering
-- Working with Google Cloud technologies and AI services
-- Exploring meaningful open-source contributions
-- Preparing for AI Engineer / ML Engineer / Software Engineer internships
+- 🤖 Building AI/ML and Agentic AI systems
+- 💻 Strengthening Software Engineering and backend development
+- 🧩 Practicing Data Structures, Algorithms, and problem-solving
+- ⚙️ Exploring scalable system design and production-grade APIs
+- ☁️ Strengthening cloud, Docker, MLOps, and deployment skills
+- 🌱 Exploring meaningful open-source contributions
+- 🎯 Preparing for **Software Engineer, AI Engineer, and ML Engineer internships**
 
 ---
 
 <p align="center">
-  <i>Always open to collaborating on AI/ML, agentic AI, intelligent systems,
-  hackathons, and interesting open-source projects.</i>
+  <i>Open to collaborating on AI/ML, software engineering, agentic AI,
+  backend systems, hackathons, and interesting open-source projects.</i>
 </p>
